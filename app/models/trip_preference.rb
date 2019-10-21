@@ -1,0 +1,2 @@
+class TripPreference < ApplicationRecord
+end
